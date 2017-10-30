@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-get-mohit",
+  "version": "1.0.0",
+  "description": "node basics",
+  "main": "http_get.js",
+  "scripts": {
+    "test": "node http_get.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mritunjaygoutam12/node-stt.git"
+  },
+  "keywords": [
+    "http.get",
+    "res",
+    "fs",
+    "require"
+  ],
+  "author": "mohit singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mritunjaygoutam12/node-stt/issues"
+  },
+  "homepage": "https://github.com/mritunjaygoutam12/node-stt#readme"
+}
