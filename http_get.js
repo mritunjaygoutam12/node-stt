@@ -15,7 +15,7 @@ res.on("data",function(chunk){
 res.on("end",function(){
     fs.writeFile("ms-dhoni.html",resBody,function(err){
         if(err){console.log("unable to write");}
-        console.log("sucess")
+        console.log("success")
     })
 })
 } )
